@@ -6,3 +6,4 @@
 |标题|难度|来源|
 |---|---|---|
 |[翻转单词顺序](https://github.com/Bulandent/js-leetcode/issues/1)|简单|[剑指 Offer 58 - I](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof)|
+|[左旋转字符串](https://github.com/Bulandent/js-leetcode-2021/issues/2)|简单|[剑指 Offer 58 - II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof)|
