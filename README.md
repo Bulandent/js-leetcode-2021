@@ -1,12 +1,13 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions
 ## 最近更新
+- [两数之和](https://github.com/Bulandent/js-leetcode-2021/issues/15)--2021-01-29
 - [验证回文串](https://github.com/Bulandent/js-leetcode-2021/issues/14)--2021-01-25
 - [括号生成](https://github.com/Bulandent/js-leetcode-2021/issues/13)--2021-01-22
 - [外观数列](https://github.com/Bulandent/js-leetcode-2021/issues/12)--2021-01-20
 - [电话号码的字母组合](https://github.com/Bulandent/js-leetcode-2021/issues/11)--2021-01-18
-- [字符串转换整数](https://github.com/Bulandent/js-leetcode-2021/issues/10)--2021-01-12
 ## 中等
+- [两数之和](https://github.com/Bulandent/js-leetcode-2021/issues/15)--2021-01-29
 - [括号生成](https://github.com/Bulandent/js-leetcode-2021/issues/13)--2021-01-22
 - [电话号码的字母组合](https://github.com/Bulandent/js-leetcode-2021/issues/11)--2021-01-18
 - [字符串转换整数](https://github.com/Bulandent/js-leetcode-2021/issues/10)--2021-01-12
@@ -60,3 +61,5 @@ My personal blog using issues and GitHub Actions
 ## 递归
 - [括号生成](https://github.com/Bulandent/js-leetcode-2021/issues/13)--2021-01-22
 - [斐波那契数](https://github.com/Bulandent/js-leetcode-2021/issues/4)--2021-01-04
+## 链表
+- [两数之和](https://github.com/Bulandent/js-leetcode-2021/issues/15)--2021-01-29
