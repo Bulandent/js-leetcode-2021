@@ -1,20 +1,26 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions
 ## 最近更新
+- [删除链表的倒数第 N 个结点](https://github.com/Bulandent/js-leetcode-2021/issues/18)--2021-03-22
 - [合并两个有序链表](https://github.com/Bulandent/js-leetcode-2021/issues/17)--2021-02-03
 - [反转链表](https://github.com/Bulandent/js-leetcode-2021/issues/16)--2021-02-01
 - [两数之和](https://github.com/Bulandent/js-leetcode-2021/issues/15)--2021-01-29
 - [验证回文串](https://github.com/Bulandent/js-leetcode-2021/issues/14)--2021-01-25
-- [括号生成](https://github.com/Bulandent/js-leetcode-2021/issues/13)--2021-01-22
 ## 中等
+- [删除链表的倒数第 N 个结点](https://github.com/Bulandent/js-leetcode-2021/issues/18)--2021-03-22
 - [两数之和](https://github.com/Bulandent/js-leetcode-2021/issues/15)--2021-01-29
 - [括号生成](https://github.com/Bulandent/js-leetcode-2021/issues/13)--2021-01-22
 - [电话号码的字母组合](https://github.com/Bulandent/js-leetcode-2021/issues/11)--2021-01-18
 - [字符串转换整数](https://github.com/Bulandent/js-leetcode-2021/issues/10)--2021-01-12
+<details><summary>显示更多</summary>
+
 - [无重复字符的最长子串](https://github.com/Bulandent/js-leetcode-2021/issues/6)--2021-01-06
+</details>
+
 ## 动态规划
 - [斐波那契数](https://github.com/Bulandent/js-leetcode-2021/issues/4)--2021-01-04
 ## 双指针
+- [删除链表的倒数第 N 个结点](https://github.com/Bulandent/js-leetcode-2021/issues/18)--2021-03-22
 - [验证回文串](https://github.com/Bulandent/js-leetcode-2021/issues/14)--2021-01-25
 - [外观数列](https://github.com/Bulandent/js-leetcode-2021/issues/12)--2021-01-20
 - [最长回文子串](https://github.com/Bulandent/js-leetcode-2021/issues/9)--2021-01-11
@@ -66,6 +72,7 @@ My personal blog using issues and GitHub Actions
 - [括号生成](https://github.com/Bulandent/js-leetcode-2021/issues/13)--2021-01-22
 - [斐波那契数](https://github.com/Bulandent/js-leetcode-2021/issues/4)--2021-01-04
 ## 链表
+- [删除链表的倒数第 N 个结点](https://github.com/Bulandent/js-leetcode-2021/issues/18)--2021-03-22
 - [合并两个有序链表](https://github.com/Bulandent/js-leetcode-2021/issues/17)--2021-02-03
 - [反转链表](https://github.com/Bulandent/js-leetcode-2021/issues/16)--2021-02-01
 - [两数之和](https://github.com/Bulandent/js-leetcode-2021/issues/15)--2021-01-29
